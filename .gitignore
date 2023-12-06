@@ -29,7 +29,6 @@ build/
 .project
 
 # Dependency directories
-/gradle
 /bin/
 /target/
 /.gradle/
