@@ -1,8 +1,9 @@
 package rectangle
 
-class Rectangle(length: Int, breadth: Int) {
+class Rectangle(val length: Int, val breadth: Int) {
+
     fun area(): Int {
-        return 2;
+        return  length*breadth
     }
 
 }
